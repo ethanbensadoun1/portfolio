@@ -1,5 +1,5 @@
 # Data Scientist
-![ETHAN BENSADOUN](/assets/roundphoto.JPG "width=300")
+![ETHAN BENSADOUN](/assets/roundphoto.JPG "width=30")
 
 #### Technical Skills: R, Python, SQL
 
