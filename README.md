@@ -1,5 +1,5 @@
 # Data Scientist
-![ETHAN BENSADOUN](/assets/roundphoto.JPG)
+<img align="left" width="100" height="100" src="/assets/roundphoto.JPG">
 
 #### Technical Skills: R, Python, SQL
 
