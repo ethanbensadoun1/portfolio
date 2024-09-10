@@ -1,6 +1,6 @@
 # Data Scientist
 
-<img align="left" width="200" height="200" src="assets/roundphoto.JPG">
+<img width="200" height="200" src="assets/roundphoto.JPG">
     
 #### Technical Skills: R, Python, SQL
 
