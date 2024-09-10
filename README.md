@@ -3,6 +3,7 @@
 <div style="text-align: center;">
 <img align="left" width="200" height="200" src="assets/roundphoto.JPG">
   <p>
+    
 #### Technical Skills: R, Python, SQL
 
 ## Education			        		
