@@ -2,9 +2,7 @@
 
 <div style="text-align: center;">
 <img align="left" width="200" height="200" src="assets/roundphoto.JPG">
-  <p>Your text below the image</p>
-</div>
-
+  <p>
 #### Technical Skills: R, Python, SQL
 
 ## Education			        		
@@ -29,3 +27,5 @@ I have recently graduated from McGill University where I double majored in Appli
 - Conducted global market research and analyzed data regarding economic indicators that impact currency values
 - Proposed quantitative derivative strategies for currency options traders to mitigate their risk profiles
 - Triggered multiple transactions among clients which generated substantial revenue for the company
+</p>
+</div>
