@@ -3,9 +3,9 @@
 <img width="200" height="200" src="assets/roundphoto.JPG">
     
 #### Technical Skills: 
-**- R (dplyr, ggplot 2, shiny, tidyr)**
-**- Python (Pandas, NumPy, Seaborn, Matplotlib, Scikit-Learn)**
-**- SQL**
+- **R (dplyr, ggplot 2, shiny, tidyr)**
+- **Python (Pandas, NumPy, Seaborn, Matplotlib, Scikit-Learn)**
+- **SQL**
 
 ## Education			        		
 B.A., Applied Mathematics in Statistcs and Economics | McGill University (_June 2024_)
