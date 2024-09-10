@@ -1,11 +1,9 @@
 # Data Scientist
 
+<div style="text-align: center;">
 <img align="left" width="200" height="200" src="assets/roundphoto.JPG">
-
-
-
-
-
+  <p>Your text below the image</p>
+</div>
 
 #### Technical Skills: R, Python, SQL
 
