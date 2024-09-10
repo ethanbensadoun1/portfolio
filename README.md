@@ -3,7 +3,7 @@
 #### Technical Skills: R, Python, SQL
 
 ## Education			        		
-- B.A., Applied Mathematics in Statistcs and Economics | McGill University (_June 2024_)
+B.A., Applied Mathematics in Statistcs and Economics | McGill University (_June 2024_)
 
 ## Summary 
 I have recently graduated from McGill University where I double majored in Applied Mathematics in Statistics and Economics. During my time as a student I was exposed to a variety of theoretical and practical topics in Data Science:
