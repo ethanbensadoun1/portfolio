@@ -3,6 +3,10 @@
 <img align="left" width="200" height="200" src="assets/roundphoto.JPG">
 
 
+
+
+
+
 #### Technical Skills: R, Python, SQL
 
 ## Education			        		
