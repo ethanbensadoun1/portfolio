@@ -1,8 +1,11 @@
-# Data Scientist    
+# Data Scientist & Quantitative Researcher
 #### Technical Skills: 
 - **R (dplyr, ggplot 2, shiny, tidyr)**
 - **Python (Pandas, NumPy, Seaborn, Matplotlib, Scikit-Learn)**
 - **SQL**
+  
+#### Languages Spoken (Fluent):
+English, French, Spanish
 
 ## Education			        		
 B.A., Applied Mathematics in Statistcs and Economics | McGill University (_June 2024_)
