@@ -4,7 +4,6 @@
 - **Python (Pandas, NumPy, Seaborn, Matplotlib, Scikit-Learn)**
 - **SQL**
 
----
 ## Education			        		
 B.A., Applied Mathematics in Statistcs and Economics | McGill University (_June 2024_)
 
