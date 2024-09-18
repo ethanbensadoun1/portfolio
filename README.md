@@ -2,11 +2,13 @@
 
 <img width="200" height="200" src="assets/roundphoto.JPG">
     
+---
 #### Technical Skills: 
 - **R (dplyr, ggplot 2, shiny, tidyr)**
 - **Python (Pandas, NumPy, Seaborn, Matplotlib, Scikit-Learn)**
 - **SQL**
 
+---
 ## Education			        		
 B.A., Applied Mathematics in Statistcs and Economics | McGill University (_June 2024_)
 
@@ -42,6 +44,14 @@ By running the a loop for each simulated iteration, I generated multiple paths f
 **Financial Visualizations Project**
 
 In this financial data project I focused on exploratory data analysis of stock prices. This is meant to show my aptitude in data visualization and pandas skills, it is not meant to be a robust financial analysis or be taken as financial advice.
+
+
+
+
+
+---
+***Please note that the code and explanations for the projects can be found in several of my github repositories, the link can be found below:***
+[Visit Ethan Bensadoun's GitHub](https://github.com/ethanbensadoun1)
 
 
 
