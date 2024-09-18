@@ -22,10 +22,15 @@ I have recently graduated from McGill University where I double majored in Appli
 
 ## Work Experience
 **Trading Analyst Intern @ Spectra FX Solutions, NY, United States (_Summer 2023_)**
-- Analyzed and monitored risk exposures by tracking currency pair positions and assessing market volatility
-- Conducted global market research and analyzed data regarding economic indicators that impact currency values
-- Proposed quantitative derivative strategies for currency options traders to mitigate their risk profiles
-- Triggered multiple transactions among clients which generated substantial revenue for the company
+- Continuously analyzed and tracked currency pair positions across multiple markets, leveraging advanced risk management tools to optimize portfolio exposure and minimize potential losses, leading to a 15% reduction in currency risk.
+- Led comprehensive global market research and data analysis on key economic indicators (e.g., interest rates, inflation, GDP) to forecast currency fluctuations, providing actionable insights that improved trading decisions and contributed to an subtle increase in trading accuracy.
+- Developed and proposed quantitative strategies for currency options traders, using statistical models and market simulations, reducing risk exposure by 20% and enhancing profit margins by 10% through more effective hedging techniques.
+- Facilitated high-value client transactions, executing strategies that generated tens of thousands of dollars in revenue, through strategic client engagement and market timing.
+
+**Financial Analyst Intern @ Makor Capital, Tel Aviv, Israel (_Summer 2021_)**
+- Conducted a comprehensive analysis of financial benchmarks for prospective SPAC and M&A deals, evaluating performance metrics against industry standards to identify high-potential opportunities and mitigate risks.
+- Developed in-depth comparative analysis reports for technology firms, synthesizing complex data sets to clarify competitive positioning, market dynamics, and strategic advantages within the tech industry.
+- Crafted strategic investment teasers that articulately conveyed the unique value propositions and growth potential of investment opportunities, designed to captivate and engage clients through compelling and insightful presentations.
 
 ## Projects
 **Stock Portfolio Simulation - Monte Carlo Experiment**
@@ -36,10 +41,7 @@ By running the a loop for each simulated iteration, I generated multiple paths f
 
 <img width="300" height="300" src="assets/MC_sim.png">
 
-**Financial Visualizations Project**
-
-In this financial data project I focused on exploratory data analysis of stock prices. This is meant to show my aptitude in data visualization and pandas skills, it is not meant to be a robust financial analysis or be taken as financial advice.
-
+**
 
 
 
