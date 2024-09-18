@@ -36,7 +36,7 @@ I’ve developed a custom stock portfolio using a Monte Carlo simulation, levera
 
 By running the a loop for each simulated iteration, I generated multiple paths for the portfolio's future value, allowing you to estimate potential outcomes and risks. Below I generated a graph that visualizes many different potential future paths for the portfolio's value. Each line represents one possible outcome for the portfolio, based on the Monte Carlo simulation.
 
-<img src="./portfolio/assets/MC_sim.png" alt="MC_sim" width="50%"/>
+<img width="200" height="200" src="assets/MC_sim.png">
 
 
 
