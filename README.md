@@ -39,7 +39,7 @@ By running the a loop for each simulated iteration, I generated multiple paths f
 
 <img width="300" height="300" src="assets/MC_sim.png">
 
-**Stock Portfolio Simulation - Monte Carlo Experiment**
+**Financial Visualizations Project**
 
 In this financial data project I focused on exploratory data analysis of stock prices. This is meant to show my aptitude in data visualization and pandas skills, it is not meant to be a robust financial analysis or be taken as financial advice.
 
