@@ -1,8 +1,4 @@
-# Data Scientist
-
-<img width="200" height="200" src="assets/roundphoto.JPG">
-    
----
+# Data Scientist    
 #### Technical Skills: 
 - **R (dplyr, ggplot 2, shiny, tidyr)**
 - **Python (Pandas, NumPy, Seaborn, Matplotlib, Scikit-Learn)**
