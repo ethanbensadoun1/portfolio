@@ -32,11 +32,16 @@ I have recently graduated from McGill University where I double majored in Appli
 
 ## Projects
 **Stock Portfolio Simulation - Monte Carlo Experiment**
+
 I’ve developed a custom stock portfolio using a Monte Carlo simulation, leveraging data from Yahoo Finance. The code demonstrates how to harness historical stock data to model potential future returns and assess portfolio performance. By incorporating statistical techniques and financial principles, this simulation allows for a nuanced evaluation of investment strategies, helping to optimize and tailor a portfolio based on historical trends and projected outcomes. 
 
 By running the a loop for each simulated iteration, I generated multiple paths for the portfolio's future value, allowing you to estimate potential outcomes and risks. Below I generated a graph that visualizes many different potential future paths for the portfolio's value. Each line represents one possible outcome for the portfolio, based on the Monte Carlo simulation.
 
 <img width="300" height="300" src="assets/MC_sim.png">
+
+**Stock Portfolio Simulation - Monte Carlo Experiment**
+
+In this financial data project I focused on exploratory data analysis of stock prices. This is meant to show my aptitude in data visualization and pandas skills, it is not meant to be a robust financial analysis or be taken as financial advice.
 
 
 
