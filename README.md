@@ -38,6 +38,8 @@ By running the a loop for each simulated iteration, I generated multiple paths f
 
 <img src="./portfolio/assets/MC_sim.png" alt="MC_sim" width="50%"/>
 
+<img width="200" height="200" src="assets/MC_sim.png">
+
 
 
 
