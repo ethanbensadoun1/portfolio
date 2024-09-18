@@ -51,7 +51,6 @@ By running the a loop for each simulated iteration, I generated multiple paths f
 - Heterogeneity of Poissoin and Negative Binomial GLMs
 - Quasi-likelihood Methods and Overdispersion for Ray Allen 3-Pointer Data Set
 - Contingency Table for a Conditional Independence Model
-- Goodness of Fit and Odds Ratio Model
   
 ***These projects demonstrates my aptitude for machine learning using different techniques to synthesize data sets.***
 
