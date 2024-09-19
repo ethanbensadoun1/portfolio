@@ -42,7 +42,7 @@ I’ve developed a custom stock portfolio using a Monte Carlo simulation, levera
 
 By running the a loop for each simulated iteration, I generated multiple paths for the portfolio's future value, allowing you to estimate potential outcomes and risks. Below I generated a graph that visualizes many different potential future paths for the portfolio's value. Each line represents one possible outcome for the portfolio, based on the Monte Carlo simulation.
 
-<img width="300" height="300" src="assets/MC_sim.png">
+<img width="400" height="300" src="assets/MC_sim.png">
 
 **Generalized Linear Models - Projects**
 - Logistic Regression modelling for Palmer Penguins Data Set
@@ -58,7 +58,7 @@ By running the a loop for each simulated iteration, I generated multiple paths f
 **Principal Component Analysis for High-Dimensional Data - Genomic Application**
 In this project, I wrote R code that performs Principal Component Analysis (PCA) on genomic data. Results show distinct population structures, with Nigerian Yoruba (YRI) and Esan (ESN) groups overlapping due to geographical proximity, while Gambian (GWD) and Mende (MSL) groups are more separated. PCA also reveals clear gender differences, with males and females forming distinct clusters in the third principal component. These findings suggest genetic markers or traits related to both population and gender-specific characteristics within the dataset. This project was very interesting because it allowed me to comprehensively analyze the geographical proximities of certain ethnic groups and genders given a diverse gene pool. 
 
-<img width="300" height="300" src="assets/MC_sim.png">
+<img width="400" height="300" src="assets/Nucleobase Index vs the abs value off the PC3 in index.png">
   
 ***These projects demonstrates my aptitude for machine learning using different techniques to synthesize data sets.***
 
