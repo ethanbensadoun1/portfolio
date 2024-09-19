@@ -1,4 +1,4 @@
-# Data Scientist & Quantitative Researcher
+# Data Scientist
 #### Technical Skills: 
 - **R (dplyr, ggplot 2, shiny, tidyr)**
 - **Python (Pandas, NumPy, Seaborn, Matplotlib, Scikit-Learn)**
