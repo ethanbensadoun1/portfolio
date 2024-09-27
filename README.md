@@ -67,7 +67,7 @@ In this project, I wrote R code that performs Principal Component Analysis (PCA)
 ***Please note that the code and explanations for the projects can be found in several of my github repositories, the link can be found below:***
 [Visit Ethan Bensadoun's GitHub](https://github.com/ethanbensadoun1)
 
-email: ethanbensadoun1@gmail.com
+email: <ethanbensadoun1@gmail.com>
 
 
 
