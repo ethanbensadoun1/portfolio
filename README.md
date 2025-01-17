@@ -25,9 +25,9 @@ I have recently graduated from McGill University where I double majored in Appli
 
 ## Work Experience
 **Trading Analyst Intern @ Spectra FX Solutions, NY, United States (_Summer 2023_)**
-- Continuously analyzed and tracked currency pair positions across multiple markets, leveraging advanced risk management tools to optimize portfolio exposure and minimize potential losses, leading to a 15% reduction in currency risk.
+- Continuously analyzed and tracked currency pair positions across multiple markets, leveraging advanced risk management tools to optimize portfolio exposure and minimize potential losses.
 - Led comprehensive global market research and data analysis on key economic indicators (e.g., interest rates, inflation, GDP) to forecast currency fluctuations, providing actionable insights that improved trading decisions and contributed to an subtle increase in trading accuracy.
-- Developed and proposed quantitative strategies for currency options traders, using statistical models and market simulations, reducing risk exposure by 20% and enhancing profit margins by 10% through more effective hedging techniques.
+- Developed and proposed quantitative strategies for currency options traders, using statistical models and market simulations, reducing risk exposure and enhancing profit margins by 10% through more effective hedging techniques.
 - Facilitated high-value client transactions, executing strategies that generated tens of thousands of dollars in revenue, through strategic client engagement and market timing.
 
 **Financial Analyst Intern @ Makor Capital, Tel Aviv, Israel (_Summer 2021_)**
