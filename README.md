@@ -3,6 +3,7 @@
 - **R (dplyr, ggplot 2, shiny, tidyr)**
 - **Python (Pandas, NumPy, Seaborn, Matplotlib, Scikit-Learn)**
 - **SQL**
+- **Microsoft Azure**
   
 #### Languages Spoken (Fluent):
 English, French, Spanish
@@ -24,6 +25,13 @@ I have recently graduated from McGill University where I double majored in Appli
 - Econometrics
 
 ## Work Experience
+**Trading Analyst Intern @ Spectra FX Solutions, NY, United States (_Present_)**
+- Quantitative Research Intern at Mapsignals: Conducting ETF research to evaluate the effectiveness of ETF scores and superior stock scores across a diverse universe of ETFs.
+- Technology Immersion & Data Science Study: Gaining hands-on experience with MAPsignals' full tech stack to produce a data science-driven study, culminating in a published White Paper.
+- Microsoft Azure Expertise: Utilizing Blob Storage services and Data Factory functionalities to build ETL processes on historical ETF data for research purposes.
+- SQL Database Proficiency: Developing skills in querying and accessing essential data points to enhance research accuracy and insights.
+
+
 **Trading Analyst Intern @ Spectra FX Solutions, NY, United States (_Summer 2023_)**
 - Continuously analyzed and tracked currency pair positions across multiple markets, leveraging advanced risk management tools to optimize portfolio exposure and minimize potential losses.
 - Led comprehensive global market research and data analysis on key economic indicators (e.g., interest rates, inflation, GDP) to forecast currency fluctuations, providing actionable insights that improved trading decisions and contributed to an subtle increase in trading accuracy.
