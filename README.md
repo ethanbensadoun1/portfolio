@@ -10,10 +10,12 @@ English, French, Spanish
 
 ## Education			        		
 B.A., Applied Mathematics in Statistcs and Economics | McGill University (_June 2024_)
+MSc Data Science Candidate at LSE (25/26)
 
 ## Summary 
-I have recently graduated from McGill University where I double majored in Applied Mathematics in Statistics and Economics. During my time as a student I was exposed to a variety of theoretical and practical topics in Data Science:
+I am currently enrolled at the London School of Economics as an MSc candidate in Data Science. Here are relevant theoretical and practical topics that I was exposed to as as a student at McGill unviersity during my undergraduate degree and that I am learning now as a masters student.
 
+McGILL:
 - Probability
 - Statistics
 - Statistical Computing 
@@ -24,8 +26,17 @@ I have recently graduated from McGill University where I double majored in Appli
 - Fundamentals of Statistical Learning (i.e., mathematics for machine learning)
 - Econometrics
 
+LSE:
+- Machine Learning and Data Mining
+- Managaing and Visualizing Data
+- Data Analysis and Statistical Methods
+- Deep Learning
+- Reinforcement Learning
+- Distributed Computing for Big Data
+- Capstone Project 
+
 ## Work Experience
-**Quantitative Research Intern @ MapSignals, FL, United States (_Present_)**
+**Quantitative Research Intern @ MoneyFlows, FL, United States (_Present_)**
 - Quantitative Research Intern at Mapsignals: Conducting ETF research to evaluate the effectiveness of ETF scores and superior stock scores across a diverse universe of ETFs.
 - Technology Immersion & Data Science Study: Gaining hands-on experience with MAPsignals' full tech stack to produce a data science-driven study, culminating in a published White Paper.
 - Microsoft Azure Learning: Utilizing Blob Storage services and Data Factory functionalities to build ETL processes on historical ETF data for research purposes.
